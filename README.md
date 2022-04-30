@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahodgins
-- 👀 I’m interested in data analysis, automation, and game development
+- 👀 I’m interested in Web Development, Automation, Game Development, and Data Analysis with Python
 - 🌱 Front End Dev - Tableau/Python/SQL
 - 💞️ I’m looking to collaborate on any projects
 
