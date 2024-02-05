@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahodgins
-- 👀 I’m interested in Web Development, Automation, Game Development, and Data Analysis with Python
-- 🌱 Front End Dev - Tableau/Python/SQL
+- 👀 I’m interested in Game Development and Full-Stack Development
+- 🌱 Full Stack Developer - React/Python and Hobby Game Developer - Godot
 - 💞️ I’m looking to collaborate on any projects
 
 <!---
